@@ -19,5 +19,5 @@ def avg_array(array)
   return average
 end
 
-puts "average of the array numbers is with fractions "
+puts "average of the array with fractions "
 puts avg_array([2,3])
